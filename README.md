@@ -1,7 +1,7 @@
 # encryption-decryption
 Application for encryption/decryption of text input from command line
 
-Hyperskill project (java developer). Stage 6/6
+Hyperskill project "Encryption-Decryption" (java developer). Stage 6/6
 
 Application manipulates text input from command line, using the Caesar cipher.
     
